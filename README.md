@@ -1,5 +1,9 @@
 #### RestoranOtomasyonu
-jAVA dili ile yazılmıştır.
+jAVA dili ve mssql ile yapılmıştır.
+
+
+Nasıl Çalıştırılır= İndirdikten sonra .jar dosyasını çalıştırabilirsiniz. Ama ilk önce sql bağlantılarını yapmanız gerekmektedir.
+
 
 Sistem ile ilgili görseller   
 
